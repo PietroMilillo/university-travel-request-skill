@@ -35,4 +35,4 @@ Pull requests with traps from other institutions' systems are welcome.
 
 ## Licence
 
-CC0 / public domain. Take it, adapt it, no attribution needed.
+MIT. See [LICENSE](LICENSE). Take it, adapt it, keep the notice.
